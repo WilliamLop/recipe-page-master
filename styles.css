@@ -191,7 +191,7 @@ body{
 
 /* MediaQuerys */
 
-@media (min-width: 48rem){
+@media (min-width: 35rem){
 
     .main__title{
         font-size: 2.5em;
